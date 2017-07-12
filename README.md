@@ -4,11 +4,12 @@ Compressive sensing (CS) has been used to accelerate dynamic magnetic resonance 
 # data sources
 The datasets used in this paper are all online available, you can obtain it through the link described as follows:
 
-1.the cardiac perfusion dataset with the size 192×192×40 ( http://ranger.uta.edu/~huang/R_CSMRI.htm) 
+1.the cardiac perfusion dataset with the size 192×192×40 ( http://ranger.uta.edu/~huang/R_CSMRI.htm)
 
-2.the cardiac cine dataset with the size 256×256×30  for regular MR imaging, which are online available at http://cai2r.net/resources/software/ls-reconstruction-matlab-code.
+2.the cardiac cine dataset with the size 256×256×30 for regular MR imaging, which are online available at (http://www.doc.ic.ac.uk/~jc1006/software.html).
 
-3.the cine dataset with the size 256×256×24 for parallel imaging ( http://cai2r.net/sites/default/files/software/k-t_sparse_sense_v1.zip).
+3.the cine dataset with the size 256×256×24 for parallel imaging ( http://cai2r.net/resources/software/k-t-sparse-sense-matlab-code).
+
 
 
 # reference:
