@@ -13,4 +13,4 @@ The datasets used in this paper are all online available, you can obtain it thro
 
 
 # reference:
-Yipeng Liu, Shan Wu, Xiaolin Huang, Bing Chen, Ce Zhu, "Hybrid CS-DMRI: Periodic Time-Variant Subsampling and Omnidirectional	Total Variation Based Reconstruction," IEEE Transactions on Medical Imaging, 2017. DOI: 10.1109/TMI.2017.2717502.
+Yipeng Liu, Shan Wu, Xiaolin Huang, Bing Chen, Ce Zhu, "Hybrid CS-DMRI: Periodic Time-Variant Subsampling and Omnidirectional	Total Variation Based Reconstruction," IEEE Transactions on Medical Imaging, 2017. DOI: 10.1109/TMI.2017.2717502. online available at: http://ieeexplore.ieee.org/document/7953691/
